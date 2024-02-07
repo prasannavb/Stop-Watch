@@ -24,7 +24,7 @@
 </ul>
 
 <h2>Demo</h2>
-<img src='./StopWatch' alt='DemoImage'/>
+<img src='./StopWatch.png' alt='DemoImage'/>
 
 <h2>Installation</h2>
 <span>To install and run this game locally, follow these steps:</span>
